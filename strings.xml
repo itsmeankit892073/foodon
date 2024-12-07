@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">FoodOn</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Shipper Array -->
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <!-- States Array -->
+    <string-array name="State">
+        <item>Andhra Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Uttar Pradesh</item>
+        <item>Tamil Nadu</item>
+    </string-array>
+
+    <!-- Cities in Andhra Pradesh -->
+    <string-array name="Andhra_Pradesh_Cities">
+        <item>Visakhapatnam</item>
+        <item>Vijayawada</item>
+        <item>Guntur</item>
+        <item>Nellore</item>
+        <item>Kurnool</item>
+    </string-array>
+
+    <!-- Cities in Maharashtra -->
+    <string-array name="Maharashtra_Cities">
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Nagpur</item>
+        <item>Nashik</item>
+        <item>Aurangabad</item>
+    </string-array>
+
+    <!-- Cities in Uttar Pradesh -->
+    <string-array name="Uttar_Pradesh_Cities">
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Ghaziabad</item>
+        <item>Agra</item>
+        <item>Varanasi</item>
+    </string-array>
+
+    <!-- Cities in Tamil Nadu -->
+    <string-array name="Tamil_Nadu_Cities">
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Madurai</item>
+        <item>Salem</item>
+        <item>Tiruchirappalli</item>
+    </string-array>
+
+    <!-- Default empty array -->
+    <string-array name="default_empty_array">
+        <item>No cities available</item>
+    </string-array>
+
+    <!-- Dish Names -->
+    <string-array name="DishName">
+        <item>Thepla</item>
+        <item>Dal Rice</item>
+        <item>Dhokla</item>
+        <item>Sabji Roti</item>
+        <item>Kadhi Khichdi</item>
+        <item>Puri Bhaji</item>
+        <item>Dal Dhokdi</item>
+        <item>Undhiyu</item>
+        <item>Aloo Paratha</item>
+        <item>Patra</item>
+        <item>Khandvi</item>
+        <item>Gulab Jamun</item>
+        <item>Sev Tomato Bhakri</item>
+        <item>Shrikhand</item>
+        <item>Palak Paneer</item>
+        <item>Khulcha</item>
+        <item>Makki Di Roti</item>
+        <item>Gobi Paratha</item>
+        <item>Biryani</item>
+        <item>Rajma</item>
+        <item>Bhindi Fry</item>
+        <item>Dum Biryani</item>
+        <item>Rumali Roti</item>
+        <item>Dal Makhni</item>
+        <item>Samosa</item>
+        <item>Kachori</item>
+        <item>Menduwada</item>
+        <item>Pulav</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Mix Vegetable</item>
+        <item>Muffins</item>
+        <item>Dal Fry Jeera Rice</item>
+        <item>Bengali Sweet</item>
+        <item>Puranpoli</item>
+        <item>Egg Curry</item>
+        <item>Pomfret Fish</item>
+        <item>Egg Bhurji</item>
+        <item>Dum Chicken</item>
+        <item>Hyderabadi Chicken Biryani</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
